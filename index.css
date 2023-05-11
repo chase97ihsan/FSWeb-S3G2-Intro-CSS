@@ -1,0 +1,98 @@
+*{
+    color: black;
+    font-family: 'Roboto Mono', monospace;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+h1{ text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 0;
+ margin-left: 25%;
+ margin-bottom: 6%;
+}
+p{
+    font-size: 20px;
+}
+.part2 .font{
+    font-family:chel;
+    display: inline-block;
+    width: 70%;
+
+
+}
+.ortak{
+    width: 1200px;
+    margin: 2% auto ;
+}
+.ortak nav{
+    margin: 20px 0;
+}
+
+
+
+.ortak nav a{
+border-radius: 20px;
+border:1px solid white;
+padding: 20px;
+color: white;
+margin: 0 17%;
+text-decoration: none;
+}
+.ortak nav a:first-child{
+    margin:0 6% 0 3%; }
+.ortak nav a:last-child{
+    margin:0 3% 0 6%;}
+
+
+.part2 img{
+display: inline-block;
+border-radius: 50%;
+height: 200px;
+width: 20%;
+margin-left: 0;
+margin-top: 50px;
+}
+.part2{
+    padding: 2% 0 2% 0;
+}
+.part2 .font p{
+    margin-left: 25%;
+    margin-bottom: 5%;
+}
+.ikinciortak{
+    background-color: #DDB9A3;
+}
+.ikinciortak p{
+    color: white;
+}
+.balon img{
+    width: 350px;
+    height: 200px;
+}
+.balon1{
+    width: 400px;
+    height: 250px;
+    margin-left: 32%;
+    margin-bottom: 25%;
+}
+.atv img{
+    width: 350px;
+    height: 200px;
+}
+.atv{
+    width: 400px;
+    height: 250px;
+    margin-left: 28%;
+    margin-bottom: 100px;
+   
+}
+footer img{
+    margin-top: 200px;   
+    width: 100%;
+    height: 200px;
+}
+
+
